@@ -1,9 +1,6 @@
 ----
--layout: post
--title: "The First Post"
--description: ""
--category: 
--tags: []
+layout: post
+title: "The First Post"
 ----
 
 ### The first post is always the hardest
